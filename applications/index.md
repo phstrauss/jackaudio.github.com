@@ -232,6 +232,8 @@ title:  "Applications"
     is an application for viewing and analysing the contents of music audio files.
   * [**Tap Reverb Editor**](http://tap-plugins.sourceforge.net/reverbed.html)
     an interactive tool for room acoustics simulation.
+  * [**Jackoviz**](https://github.com/phstrauss/jackoviz)
+    is FFT based analyzer using the high quality Datoviz, Vulkan based visualization library.
 
 ## Mixers
 
