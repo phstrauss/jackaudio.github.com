@@ -233,7 +233,7 @@ title:  "Applications"
   * [**Tap Reverb Editor**](http://tap-plugins.sourceforge.net/reverbed.html)
     an interactive tool for room acoustics simulation.
   * [**Jackoviz**](https://github.com/phstrauss/jackoviz)
-    is FFT based analyzer using the high quality Datoviz, Vulkan based visualization library.
+    is an FFT-based analyzer using Datoviz, a Vulkan based visualization library.
 
 ## Mixers
 
